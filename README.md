@@ -1,4 +1,4 @@
-# differential-privacy-tensorflow
+# differential-privacy-tensorflow  (Reference https://github.com/tensorflow/privacy)
 
 Multi class text classification using bbc text (bbc-text.csv)
 
@@ -27,9 +27,9 @@ https://www.kaggle.com/selener/multi-class-text-classification-tfidf/data
 Following are the differential privacy sample codes with tenskrflow2 and differential privacy
 
 
-imdb_dpsgd_keras.py -- Movie Reviews Binary Classification
+imdb_dpsgd_keras.py -- Movie Reviews Binary Classification (Ref https://github.com/tensorflow/privacy)
 
-multi_image_mnist_dpsgd_keras.py - Multi-class IMAGE classification with MNIST, fashion_MNSIT, and CIFAR datasets
+multi_image_mnist_dpsgd_keras.py - Multi-class IMAGE classification with MNIST, fashion_MNSIT, and CIFAR datasets (Ref https://github.com/tensorflow/privacy)
 
 multitext_comment_toxicity_dpsgd_keras.py - Multi-class multi-label text classification with toxic comment dataset available from Kaggle
 
